@@ -17,8 +17,6 @@
 #include <sys/wait.h>
 #include <sys/signal.h>
 
-
-#define QUIT "quit"
 #define SERVER_PORT 10000
 #define CONNECTION_REQUEST_LIMIT 5
 #define BUFLEN 100
