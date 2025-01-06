@@ -1,4 +1,4 @@
-# Peer-to-Peer Network
+# Torrent Clone
 
 This project is based on the development of a Peer-to-Peer (P2P) network using socket programming in C. The primary objective is to establish a decentralized network where peers
 can exchange content among themselves through the support of the index server. The communication between the index server and a peer is based on UDP while the content download is 
